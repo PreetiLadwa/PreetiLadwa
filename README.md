@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PreetiLadwa
-- 👀 I’m interested in cloud computing
+- 👀 I’m interested in Project Management and User Experience web Develepment
 - 🌱 I’m currently learning to code in python 
 - 📫 How to reach me via linkedIn at Preeti Ladwa
 
